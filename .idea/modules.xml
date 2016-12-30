@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy_tutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy_tutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy_tutorial_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy_tutorial_main.iml" group="groovy_tutorial" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy_tutorial_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy_tutorial_test.iml" group="groovy_tutorial" />
     </modules>
   </component>
 </project>
